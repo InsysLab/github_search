@@ -1,6 +1,6 @@
 <?php
 /* Database connection */
-require("DB_PDO.php");
+require("db_pdo.php");
 
 /**
  * Class for storing data to DB
