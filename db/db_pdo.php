@@ -9,7 +9,7 @@ class DB_PDO{
 	 * DB public object
 	 * @var PDO
 	 */
-	public $db;
+	protected $db;
 	
 	/**
 	 * Constructor
